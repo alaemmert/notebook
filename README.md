@@ -1,6 +1,3 @@
-cognitiveclass.ai logo
-Add your code below following the instructions given in the course
-In [ ]:
 My Jupyter Notebook on IBM Watson Studio
 stringAnna Laemmert
 
